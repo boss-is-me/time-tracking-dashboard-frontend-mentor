@@ -44,7 +44,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/boss-is-me/time-tracking-dashboard-frontend-mentor](https://github.com/boss-is-me/time-tracking-dashboard-frontend-mentor)
-- Live Site URL: [https://time-tracking-dashboard.vercel.app](https://time-tracking-dashboard.vercel.app)
+- Live Site URL: [https://time-tracking-dashboard-frontend-mentor-nine.vercel.app/](https://time-tracking-dashboard-frontend-mentor-nine.vercel.app/)
 
 ## My process
 
